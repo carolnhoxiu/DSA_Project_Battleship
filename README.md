@@ -18,7 +18,7 @@ Battleship is a classic strategy 2-players game. This game is the product of the
 1. Open the terminal on your IDE
 2. Clone the repo
    ```sh
-   git clone https://github.com/unclechapter/BattleshipIU
+   git clone https://github.com/carolnhoxiu/DSA_Project_Battleship
    ```
 3. Check the file status
    ```sh
