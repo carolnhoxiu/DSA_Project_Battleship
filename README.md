@@ -54,3 +54,7 @@ Our game implements 3 new features including:
 <div>
 
 <br />
+
+## References
+1. https://github.com/AyeshaShaukat/Project-Battle-Ships-Game/blob/master/BattleShips.java
+2. https://onecompiler.com/java/3wunmpn3q
