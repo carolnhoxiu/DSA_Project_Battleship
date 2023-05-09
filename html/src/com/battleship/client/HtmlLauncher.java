@@ -16,4 +16,10 @@ public class HtmlLauncher extends GwtApplication {
         public ApplicationListener getApplicationListener () {
                 return new MyBattleshipGame();
         }
+
+        @Override
+        public ApplicationListener createApplicationListener() {
+                // TODO Auto-generated method stub
+                throw new UnsupportedOperationException("Unimplemented method 'createApplicationListener'");
+        }
 }
